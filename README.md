@@ -24,7 +24,9 @@ Hint: use “value” attribute to get input field value
 19. Get Shipping value and print in console.
 20. Close the Browser.
 
-Guideline
+
+## Guideline
+
 ###### * Create a maven project.
 ###### * Test Scenario completion up-to the last step.
 ###### * Creating TestNG xml Test Suite.
